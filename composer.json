@@ -1,5 +1,5 @@
 {
-    "name": "fineuploader/php-traditional-server_old",
+    "name": "aarpon/php-traditional-server_old",
     "description": "Endpoint handler for Fine Uploader's traditional server requests.",
     "homepage": "http://fineuploader.com",
     "license": "MIT"
