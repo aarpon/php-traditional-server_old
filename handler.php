@@ -33,7 +33,7 @@ class UploadHandler {
         $initialFiles = array();
 
         for ($i = 0; $i < 5000; $i++) {
-            array_push($initialFiles, array("name" => "name" + $i, uuid => "uuid" + $i, thumbnailUrl => "/test/dev/handlers/vendor/fineuploader/php-traditional-server/fu.png"));
+            array_push($initialFiles, array("name" => "name" + $i, uuid => "uuid" + $i, thumbnailUrl => "/test/dev/handlers/vendor/aarpon/php-traditional-server_old/fu.png"));
         }
 
         return $initialFiles;
